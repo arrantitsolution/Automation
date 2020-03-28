@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category" table="x_186591_service_r_srf" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New</label>
+            <language>en</language>
+            <name>x_186591_service_r_srf</name>
+            <sequence>10</sequence>
+            <sys_created_by>dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 04:40:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6001d2d12f730810869d11c82799b6b9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 04:40:36</sys_updated_on>
+            <value>New</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Existing</label>
+            <language>en</language>
+            <name>x_186591_service_r_srf</name>
+            <sequence>20</sequence>
+            <sys_created_by>dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 04:40:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>002112152f730810869d11c82799b6c3</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 04:40:52</sys_updated_on>
+            <value>Existing</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <name>x_186591_service_r_srf</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 04:40:22</sys_created_on>
+            <sys_id>0c2152152f730810869d11c82799b698</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category</sys_name>
+            <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+            <sys_update_name>sys_choice_x_186591_service_r_srf_category</sys_update_name>
+            <sys_updated_by>dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 04:40:22</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

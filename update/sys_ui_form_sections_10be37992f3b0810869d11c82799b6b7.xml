@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="10be37992f3b0810869d11c82799b6b7" sys_domain="global" table="x_186591_service_r_srf" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 18:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5fbc1ad2f7f0810869d11c82799b689</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_186591_service_r_srf" name="x_186591_service_r_srf" sys_domain="global" view="Default view">10be37992f3b0810869d11c82799b6b7</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_186591_service_r_srf" sys_domain="global" view="Default view">395945e92f7f0810869d11c82799b639</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 18:16:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 21:24:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1be6f52d2f334810869d11c82799b651</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_186591_service_r_srf" name="x_186591_service_r_srf" sys_domain="global" view="Default view">10be37992f3b0810869d11c82799b6b7</sys_ui_form>
+            <sys_ui_section caption="More Information" display_value="More Information" name="x_186591_service_r_srf" sys_domain="global" view="Default view">d3e6b52d2f334810869d11c82799b6de</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 21:24:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 21:30:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df6871ad2f334810869d11c82799b69b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_186591_service_r_srf" name="x_186591_service_r_srf" sys_domain="global" view="Default view">10be37992f3b0810869d11c82799b6b7</sys_ui_form>
+            <sys_ui_section caption="Business Justification" display_value="Business Justification" name="x_186591_service_r_srf" sys_domain="global" view="Default view">5f6871ad2f334810869d11c82799b699</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:16:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 16:09:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14783d352f738810869d11c82799b6c2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_186591_service_r_srf" name="x_186591_service_r_srf" sys_domain="global" view="Default view">10be37992f3b0810869d11c82799b6b7</sys_ui_form>
+            <sys_ui_section caption="Planning" display_value="Planning" name="x_186591_service_r_srf" sys_domain="global" view="Default view">14783d352f738810869d11c82799b6c0</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:16:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 18:24:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82adc1212fbf0810869d11c82799b671</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_186591_service_r_srf" name="x_186591_service_r_srf" sys_domain="global" view="Default view">10be37992f3b0810869d11c82799b6b7</sys_ui_form>
+            <sys_ui_section caption="Relationship" display_value="Relationship" name="x_186591_service_r_srf" sys_domain="global" view="Default view">8eadc1212fbf0810869d11c82799b66f</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:16:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 16:13:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>927971b52f738810869d11c82799b697</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_186591_service_r_srf" name="x_186591_service_r_srf" sys_domain="global" view="Default view">10be37992f3b0810869d11c82799b6b7</sys_ui_form>
+            <sys_ui_section caption="Closure Details" display_value="Closure Details" name="x_186591_service_r_srf" sys_domain="global" view="Default view">ce79bd752f738810869d11c82799b6e8</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:13:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_186591_service_r_srf</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 12:39:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10be37992f3b0810869d11c82799b6b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_186591_service_r_srf</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_10be37992f3b0810869d11c82799b6b7</sys_update_name>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 12:39:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

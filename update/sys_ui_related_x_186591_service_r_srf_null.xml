@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_186591_service_r_srf" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="SR Factory - Default view" name="x_186591_service_r_srf" related_list="NULL" sys_domain="global" view="Default view">f4f2a73d2f3b8810869d11c82799b603</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>Created Demand</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 23:54:50</sys_created_on>
+            <sys_id>70f2a73d2f3b8810869d11c82799b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 23:54:50</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="SR Factory - Default view" name="x_186591_service_r_srf" related_list="NULL" sys_domain="global" view="Default view">f4f2a73d2f3b8810869d11c82799b603</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>REL:e4bf7d7d2f738810869d11c82799b686</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 23:54:50</sys_created_on>
+            <sys_id>74f2a73d2f3b8810869d11c82799b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 23:54:50</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="SR Factory - Default view" name="x_186591_service_r_srf" related_list="NULL" sys_domain="global" view="Default view">f4f2a73d2f3b8810869d11c82799b603</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>REL:1dfff57d2f738810869d11c82799b600</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 23:54:50</sys_created_on>
+            <sys_id>78f2a73d2f3b8810869d11c82799b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 23:54:50</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="SR Factory - Default view" name="x_186591_service_r_srf" related_list="NULL" sys_domain="global" view="Default view">f4f2a73d2f3b8810869d11c82799b603</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>REL:5871ef792f3b8810869d11c82799b626</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 23:54:50</sys_created_on>
+            <sys_id>7cf2a73d2f3b8810869d11c82799b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 23:54:50</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>SR Factory - Default view</calculated_name>
+            <filter/>
+            <name>x_186591_service_r_srf</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 23:54:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4f2a73d2f3b8810869d11c82799b603</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>SR Factory - Default view</sys_name>
+            <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+            <sys_update_name>sys_ui_related_x_186591_service_r_srf_null</sys_update_name>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 23:54:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

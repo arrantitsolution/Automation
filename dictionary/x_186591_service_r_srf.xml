@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SR Factory" max_length="40" name="x_186591_service_r_srf" type="collection">
+        <element attributes="encode_utf8=false" label="Assigned To" mandatory="true" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Assignment Group" mandatory="true" max_length="32" name="assignment_group" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Business Justification" max_length="1000" name="business_justification" type="string"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Capex" max_length="20" name="capex" type="price"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" mandatory="true" max_length="100" name="category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="10" value="New"/>
+                <element inactive_on_update="false" label="Existing" sequence="20" value="Existing"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Change" max_length="32" name="change" reference="change_request" type="reference"/>
+        <element attributes="encode_utf8=false" label="Change Record" max_length="32" name="change_record" reference="change_request" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Closure Category" mandatory="true" max_length="40" name="closure_category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Test 1" value="Test 1"/>
+                <element inactive_on_update="false" label="Test 2" value="Test 2"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Closure Code" max_length="40" name="closure_code" type="string">
+            <choice/>
+        </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Cost" max_length="20" name="cost" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="Cost Benefit" max_length="100" name="cost_benefit" type="string"/>
+        <element attributes="encode_utf8=false" label="Demand Record" max_length="32" name="demand_record" reference="dmn_demand" type="reference"/>
+        <element label="Description" max_length="65536" name="description" type="html"/>
+        <element label="Funded Initiative" max_length="40" name="funded_initiative" type="boolean"/>
+        <element attributes="encode_utf8=false" label="Incident" max_length="32" name="incident" reference="incident" type="reference"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" default="javascript:getNextObjNumberPadded(); " dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" read_only="true" type="longint" use_dynamic_default="true"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Opex" max_length="20" name="opex" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="Planned End Date" max_length="40" name="planned_end_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Planned Start Date" mandatory="true" max_length="40" name="planned_start_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Priority" mandatory="true" max_length="40" name="priority" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Priority 1" sequence="0" value="Priority 1"/>
+                <element inactive_on_update="false" label="Priority 2" sequence="1" value="Priority 2"/>
+                <element inactive_on_update="false" label="Priority 3" sequence="2" value="Priority 3"/>
+                <element inactive_on_update="false" label="Priority 4" sequence="3" value="Priority 4"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Probability of Risk" max_length="40" name="probability_of_risk" type="string">
+            <choice>
+                <element dependent_value="High" inactive_on_update="false" label="Low" sequence="1" value="Low"/>
+                <element dependent_value="High" inactive_on_update="false" label="Medium" sequence="2" value="Medium"/>
+                <element dependent_value="High" inactive_on_update="false" label="High" sequence="3" value="High"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Project Code/Number" max_length="40" name="project_code_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Project Funded" mandatory="true" max_length="40" name="project_funded" type="string">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Project Name" mandatory="true" max_length="32" name="project_name" reference="pm_project" type="reference"/>
+        <element attributes="encode_utf8=false" default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Requested By" mandatory="true" max_length="32" name="requested_by" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element label="Requested Date" mandatory="true" max_length="40" name="requested_date" type="calendar_date_time"/>
+        <element attributes="encode_utf8=false" label="Requested For" mandatory="true" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Risk Level" mandatory="true" max_length="40" name="risk_level" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Low" value="Low"/>
+                <element inactive_on_update="false" label="Medium" value="Medium"/>
+                <element inactive_on_update="false" label="High" sequence="1" value="High"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Scheduled End Date" max_length="40" name="scheduled_end_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Scheduled Start Date" max_length="40" name="scheduled_start_date" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" label="Service Request" max_length="32" name="service_request" reference="sc_cat_item" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="100" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" mandatory="true" max_length="40" name="status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="10" value="Draft"/>
+                <element inactive_on_update="false" label="Requirements Gathering" sequence="20" value="Requirements Gathering"/>
+                <element inactive_on_update="false" label="Service Design" sequence="30" value="Service Design"/>
+                <element inactive_on_update="false" label="Ready for Testing" sequence="40" value="Ready for Testing"/>
+                <element inactive_on_update="false" label="Pipeline" sequence="50" value="Pipeline"/>
+                <element inactive_on_update="false" label="Closed" sequence="60" value="Closed"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Stories" max_length="32" name="stories" reference="rm_story" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="category" dependent_on_field="category" label="Sub Category" mandatory="true" max_length="100" name="sub_category" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Existing" inactive_on_update="false" label="Run / Support" sequence="10" value="Run / Support"/>
+                <element dependent_value="New" inactive_on_update="false" label="Cost Saving" sequence="20" value="Cost Saving"/>
+                <element dependent_value="Existing" inactive_on_update="false" label="Service Enhancement" sequence="30" value="Service Enhancement"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="status" dependent_on_field="status" label="Sub Status" max_length="40" name="sub_status" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Closed" inactive_on_update="false" label="Cancelled" value="Cancelled"/>
+                <element dependent_value="Scheduled" inactive_on_update="false" label="Change Created" value="Change Created"/>
+                <element dependent_value="Service Design" inactive_on_update="false" label="Cost Approved" value="Cost Approved"/>
+                <element dependent_value="Service Design" inactive_on_update="false" label="Cost Deffered" value="Cost Deffered"/>
+                <element dependent_value="Service Design" inactive_on_update="false" label="Cost Rejected" value="Cost Rejected"/>
+                <element dependent_value="Service Design" inactive_on_update="false" label="Design Approved" value="Design Approved"/>
+                <element dependent_value="Closed" inactive_on_update="false" label="Expected Outcome" value="Expected Outcome"/>
+                <element dependent_value="Closed" inactive_on_update="false" label="Outcome Deferred" value="Outcome Deferred"/>
+                <element dependent_value="Requirements Gathering" inactive_on_update="false" label="Requirements Approved" value="Requirements Approved"/>
+                <element dependent_value="Requirements Gathering" inactive_on_update="false" label="Requirements Under Review" value="Requirements Under Review"/>
+                <element dependent_value="Service Design" inactive_on_update="false" label="Service Review" value="Service Review"/>
+                <element dependent_value="Completed" inactive_on_update="false" label="Successfull" value="Successfull"/>
+                <element dependent_value="Ready For Testing" inactive_on_update="false" label="Test Fail" value="Test Fail"/>
+                <element dependent_value="Ready For Testing" inactive_on_update="false" label="Test Pass" value="Test Pass"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" choice_field="probability" dependent="risk_level" dependent_on_field="risk_level" label="What would be the impact if the Risk materialize?" max_length="40" name="what_would_be_the_impact_if_the_risk_materialize" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="High" inactive_on_update="false" label="Low" sequence="1" value="Low"/>
+                <element dependent_value="High" inactive_on_update="false" label="Medium" sequence="2" value="Medium"/>
+                <element dependent_value="High" inactive_on_update="false" label="High" sequence="3" value="High"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="change_record"/>
+        </index>
+        <index name="index2">
+            <element name="requested_by"/>
+        </index>
+        <index name="index3">
+            <element name="stories"/>
+        </index>
+        <index name="index4">
+            <element name="assignment_group"/>
+        </index>
+        <index name="index5">
+            <element name="change"/>
+        </index>
+        <index name="index6">
+            <element name="demand_record"/>
+        </index>
+        <index name="index7">
+            <element name="requested_for"/>
+        </index>
+        <index name="index8">
+            <element name="service_request"/>
+        </index>
+        <index name="index9">
+            <element name="project_name"/>
+        </index>
+        <index name="index10">
+            <element name="incident"/>
+        </index>
+        <index name="index11">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>

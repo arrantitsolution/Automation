@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Business Justification" section_id="5f6871ad2f334810869d11c82799b699" sys_domain="global" table="x_186591_service_r_srf" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_name</element>
+            <position>0</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 16:13:45</sys_created_on>
+            <sys_id>6a6931b52f738810869d11c82799b692</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Justification" display_value="Business Justification" name="x_186591_service_r_srf" sys_domain="global" view="Default view">5f6871ad2f334810869d11c82799b699</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:13:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_code_number</element>
+            <position>1</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 16:13:45</sys_created_on>
+            <sys_id>ea6931b52f738810869d11c82799b692</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Justification" display_value="Business Justification" name="x_186591_service_r_srf" sys_domain="global" view="Default view">5f6871ad2f334810869d11c82799b699</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:13:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_funded</element>
+            <position>2</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 16:13:45</sys_created_on>
+            <sys_id>6e6931b52f738810869d11c82799b692</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Justification" display_value="Business Justification" name="x_186591_service_r_srf" sys_domain="global" view="Default view">5f6871ad2f334810869d11c82799b699</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:13:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost</element>
+            <position>3</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 16:13:45</sys_created_on>
+            <sys_id>ee6931b52f738810869d11c82799b692</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Justification" display_value="Business Justification" name="x_186591_service_r_srf" sys_domain="global" view="Default view">5f6871ad2f334810869d11c82799b699</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:13:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>capex</element>
+            <position>4</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 16:13:45</sys_created_on>
+            <sys_id>626931b52f738810869d11c82799b693</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Justification" display_value="Business Justification" name="x_186591_service_r_srf" sys_domain="global" view="Default view">5f6871ad2f334810869d11c82799b699</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:13:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_justification</element>
+            <position>5</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 16:13:45</sys_created_on>
+            <sys_id>e26931b52f738810869d11c82799b693</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Justification" display_value="Business Justification" name="x_186591_service_r_srf" sys_domain="global" view="Default view">5f6871ad2f334810869d11c82799b699</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:13:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 16:13:45</sys_created_on>
+            <sys_id>666931b52f738810869d11c82799b693</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Justification" display_value="Business Justification" name="x_186591_service_r_srf" sys_domain="global" view="Default view">5f6871ad2f334810869d11c82799b699</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:13:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost_benefit</element>
+            <position>7</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 16:13:45</sys_created_on>
+            <sys_id>e66931b52f738810869d11c82799b693</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Justification" display_value="Business Justification" name="x_186591_service_r_srf" sys_domain="global" view="Default view">5f6871ad2f334810869d11c82799b699</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:13:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>risk_level</element>
+            <position>8</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 16:13:45</sys_created_on>
+            <sys_id>6a6931b52f738810869d11c82799b693</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Justification" display_value="Business Justification" name="x_186591_service_r_srf" sys_domain="global" view="Default view">5f6871ad2f334810869d11c82799b699</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:13:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>what_would_be_the_impact_if_the_risk_materialize</element>
+            <position>9</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 16:13:45</sys_created_on>
+            <sys_id>ea6931b52f738810869d11c82799b693</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Justification" display_value="Business Justification" name="x_186591_service_r_srf" sys_domain="global" view="Default view">5f6871ad2f334810869d11c82799b699</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:13:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>probability_of_risk</element>
+            <position>10</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 16:13:45</sys_created_on>
+            <sys_id>6e6931b52f738810869d11c82799b693</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Justification" display_value="Business Justification" name="x_186591_service_r_srf" sys_domain="global" view="Default view">5f6871ad2f334810869d11c82799b699</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:13:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opex</element>
+            <position>11</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 16:13:45</sys_created_on>
+            <sys_id>ee6931b52f738810869d11c82799b693</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Business Justification" display_value="Business Justification" name="x_186591_service_r_srf" sys_domain="global" view="Default view">5f6871ad2f334810869d11c82799b699</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 16:13:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Business Justification</caption>
+            <header>false</header>
+            <name>x_186591_service_r_srf</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 21:30:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f6871ad2f334810869d11c82799b699</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Business Justification</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+            <sys_update_name>sys_ui_section_5f6871ad2f334810869d11c82799b699</sys_update_name>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 21:30:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

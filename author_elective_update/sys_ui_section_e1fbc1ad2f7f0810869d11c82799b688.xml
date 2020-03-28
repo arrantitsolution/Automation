@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Requested Details" section_id="e1fbc1ad2f7f0810869d11c82799b688" sys_domain="global" table="x_186591_service_r_srf" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 18:18:05</sys_created_on>
+            <sys_id>864c49ad2f7f0810869d11c82799b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Details" display_value="Requested Details" name="x_186591_service_r_srf" sys_domain="global" view="Default view">e1fbc1ad2f7f0810869d11c82799b688</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 18:18:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 18:18:05</sys_created_on>
+            <sys_id>0a4c49ad2f7f0810869d11c82799b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Details" display_value="Requested Details" name="x_186591_service_r_srf" sys_domain="global" view="Default view">e1fbc1ad2f7f0810869d11c82799b688</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 18:18:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Requested Details</caption>
+            <header>false</header>
+            <name>x_186591_service_r_srf</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 18:16:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1fbc1ad2f7f0810869d11c82799b688</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Requested Details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+            <sys_update_name>sys_ui_section_e1fbc1ad2f7f0810869d11c82799b688</sys_update_name>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 18:18:46</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</application>
+        <file_path/>
+        <instance_id>e81821bbdbf184d452dd2f17d4961975</instance_id>
+        <instance_name>dev96559</instance_name>
+        <name>sys_ui_section_e1fbc1ad2f7f0810869d11c82799b688</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Requested Details" section_id="e1fbc1ad2f7f0810869d11c82799b688" sys_domain="global" table="x_186591_service_r_srf" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>Dreambig</sys_created_by><sys_created_on>2020-03-26 18:18:05</sys_created_on><sys_id>864c49ad2f7f0810869d11c82799b6e2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Requested Details" display_value="Requested Details" name="x_186591_service_r_srf" sys_domain="global" view="Default view">e1fbc1ad2f7f0810869d11c82799b688</sys_ui_section><sys_updated_by>Dreambig</sys_updated_by><sys_updated_on>2020-03-26 18:18:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>1</position><sys_created_by>Dreambig</sys_created_by><sys_created_on>2020-03-26 18:18:05</sys_created_on><sys_id>0a4c49ad2f7f0810869d11c82799b6e2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Requested Details" display_value="Requested Details" name="x_186591_service_r_srf" sys_domain="global" view="Default view">e1fbc1ad2f7f0810869d11c82799b688</sys_ui_section><sys_updated_by>Dreambig</sys_updated_by><sys_updated_on>2020-03-26 18:18:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Requested Details</caption><header>false</header><name>x_186591_service_r_srf</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>Dreambig</sys_created_by><sys_created_on>2020-03-26 18:16:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e1fbc1ad2f7f0810869d11c82799b688</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Requested Details</sys_name><sys_overrides/><sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package><sys_policy/><sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope><sys_update_name>sys_ui_section_e1fbc1ad2f7f0810869d11c82799b688</sys_update_name><sys_updated_by>Dreambig</sys_updated_by><sys_updated_on>2020-03-26 18:18:46</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1558789164</payload_hash>
+        <record_name>SR Factory</record_name>
+        <reverted_from/>
+        <source>14faf4d52ffbc410869d11c82799b611</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Dreambig</sys_created_by>
+        <sys_created_on>2020-03-26 18:18:46</sys_created_on>
+        <sys_id>1c7c0dad2f7f0810869d11c82799b685</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171181168e60000001</sys_recorded_at>
+        <sys_updated_by>Dreambig</sys_updated_by>
+        <sys_updated_on>2020-03-26 18:18:46</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>947c0dad367f0810b7c7c39c94080685</update_guid>
+        <update_guid_history>947c0dad367f0810b7c7c39c94080685:-1558789164,124c49ad5c7f08108d0085974f66f5f0:-1315513280,962cc5ad7c7f08101e620044bd69a765:-620395842,d50c45ad717f08100bd30d3182a0f11d:-1315513280,2dfbc1ad1c7f08108f7f49e4046ff6a1:-2041285082</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Dreambig</sys_created_by>
+        <sys_created_on>2020-03-26 18:19:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>2da7c3e225ed4f00ae8c55bd2addbe84</sys_id>
+        <sys_metadata>e1fbc1ad2f7f0810869d11c82799b688</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested Details</sys_name>
+        <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+        <sys_parent display_value="SR Factory">36cbb4992ffbc410869d11c82799b6fd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+        <sys_scope_delete display_value="">c65077874e43428c84db51fd7a2e9b10</sys_scope_delete>
+        <sys_update_name>sys_ui_section_e1fbc1ad2f7f0810869d11c82799b688</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_e1fbc1ad2f7f0810869d11c82799b688">1c7c0dad2f7f0810869d11c82799b685</sys_update_version>
+        <sys_updated_by>Dreambig</sys_updated_by>
+        <sys_updated_on>2020-03-26 18:19:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

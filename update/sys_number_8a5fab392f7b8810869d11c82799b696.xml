@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_186591_service_r_srf">x_186591_service_r_srf</category>
+        <maximum_digits>7</maximum_digits>
+        <number>0</number>
+        <prefix>ASR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>Dreambig</sys_created_by>
+        <sys_created_on>2020-03-28 00:49:16</sys_created_on>
+        <sys_id>8a5fab392f7b8810869d11c82799b696</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ASR</sys_name>
+        <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+        <sys_update_name>sys_number_8a5fab392f7b8810869d11c82799b696</sys_update_name>
+        <sys_updated_by>Dreambig</sys_updated_by>
+        <sys_updated_on>2020-03-28 00:49:16</sys_updated_on>
+    </sys_number>
+</record_update>

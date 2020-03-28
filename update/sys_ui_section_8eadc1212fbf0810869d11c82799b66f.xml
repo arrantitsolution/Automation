@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Relationship" section_id="8eadc1212fbf0810869d11c82799b66f" sys_domain="global" table="x_186591_service_r_srf" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_request</element>
+            <position>0</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 21:29:57</sys_created_on>
+            <sys_id>b8387d6d2f334810869d11c82799b695</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Relationship" display_value="Relationship" name="x_186591_service_r_srf" sys_domain="global" view="Default view">8eadc1212fbf0810869d11c82799b66f</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 21:29:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>demand_record</element>
+            <position>1</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 21:29:57</sys_created_on>
+            <sys_id>3c387d6d2f334810869d11c82799b695</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Relationship" display_value="Relationship" name="x_186591_service_r_srf" sys_domain="global" view="Default view">8eadc1212fbf0810869d11c82799b66f</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 21:29:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 21:29:57</sys_created_on>
+            <sys_id>bc387d6d2f334810869d11c82799b695</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Relationship" display_value="Relationship" name="x_186591_service_r_srf" sys_domain="global" view="Default view">8eadc1212fbf0810869d11c82799b66f</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 21:29:57</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stories</element>
+            <position>3</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 21:29:57</sys_created_on>
+            <sys_id>30387d6d2f334810869d11c82799b696</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Relationship" display_value="Relationship" name="x_186591_service_r_srf" sys_domain="global" view="Default view">8eadc1212fbf0810869d11c82799b66f</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 21:29:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incident</element>
+            <position>4</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 21:29:57</sys_created_on>
+            <sys_id>b0387d6d2f334810869d11c82799b696</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Relationship" display_value="Relationship" name="x_186591_service_r_srf" sys_domain="global" view="Default view">8eadc1212fbf0810869d11c82799b66f</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 21:29:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>change</element>
+            <position>5</position>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 21:29:57</sys_created_on>
+            <sys_id>34387d6d2f334810869d11c82799b696</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Relationship" display_value="Relationship" name="x_186591_service_r_srf" sys_domain="global" view="Default view">8eadc1212fbf0810869d11c82799b66f</sys_ui_section>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 21:29:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Relationship</caption>
+            <header>false</header>
+            <name>x_186591_service_r_srf</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 18:24:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8eadc1212fbf0810869d11c82799b66f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Relationship</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+            <sys_update_name>sys_ui_section_8eadc1212fbf0810869d11c82799b66f</sys_update_name>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 18:24:29</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

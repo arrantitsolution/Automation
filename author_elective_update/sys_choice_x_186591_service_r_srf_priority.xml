@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="priority" table="x_186591_service_r_srf" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Priority 1</label>
+            <language>en</language>
+            <name>x_186591_service_r_srf</name>
+            <sequence>0</sequence>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-25 23:01:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bda349d12f3fc410869d11c82799b6f8</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 04:54:43</sys_updated_on>
+            <value>Priority 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Priority 2</label>
+            <language>en</language>
+            <name>x_186591_service_r_srf</name>
+            <sequence>1</sequence>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-25 23:02:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01b389d12f3fc410869d11c82799b6d7</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 04:54:43</sys_updated_on>
+            <value>Priority 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Priority 3</label>
+            <language>en</language>
+            <name>x_186591_service_r_srf</name>
+            <sequence>2</sequence>
+            <sys_created_by>dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 04:54:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e6416192f730810869d11c82799b611</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 04:54:43</sys_updated_on>
+            <value>Priority 3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Priority 4</label>
+            <language>en</language>
+            <name>x_186591_service_r_srf</name>
+            <sequence>3</sequence>
+            <sys_created_by>dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 04:54:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e6416192f730810869d11c82799b612</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 04:54:43</sys_updated_on>
+            <value>Priority 4</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <name>x_186591_service_r_srf</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-25 23:01:54</sys_created_on>
+            <sys_id>f5a349d12f3fc410869d11c82799b6f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>priority</sys_name>
+            <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+            <sys_update_name>sys_choice_x_186591_service_r_srf_priority</sys_update_name>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-25 23:01:54</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

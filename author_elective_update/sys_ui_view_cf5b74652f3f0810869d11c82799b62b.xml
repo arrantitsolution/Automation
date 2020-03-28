@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>ticket_details</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>Dreambig</sys_created_by>
+        <sys_created_on>2020-03-26 17:04:09</sys_created_on>
+        <sys_id>cf5b74652f3f0810869d11c82799b62b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ticket Details</sys_name>
+        <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+        <sys_update_name>sys_ui_view_cf5b74652f3f0810869d11c82799b62b</sys_update_name>
+        <sys_updated_by>Dreambig</sys_updated_by>
+        <sys_updated_on>2020-03-26 17:04:09</sys_updated_on>
+        <title>Ticket Details</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</application>
+        <file_path/>
+        <instance_id>e81821bbdbf184d452dd2f17d4961975</instance_id>
+        <instance_name>dev96559</instance_name>
+        <name>sys_ui_view_cf5b74652f3f0810869d11c82799b62b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>ticket_details</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>Dreambig</sys_created_by><sys_created_on>2020-03-26 17:04:09</sys_created_on><sys_id>cf5b74652f3f0810869d11c82799b62b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Ticket Details</sys_name><sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package><sys_policy/><sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope><sys_update_name>sys_ui_view_cf5b74652f3f0810869d11c82799b62b</sys_update_name><sys_updated_by>Dreambig</sys_updated_by><sys_updated_on>2020-03-26 17:04:09</sys_updated_on><title>Ticket Details</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>162865424</payload_hash>
+        <record_name>Ticket Details</record_name>
+        <reverted_from/>
+        <source>14faf4d52ffbc410869d11c82799b611</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Dreambig</sys_created_by>
+        <sys_created_on>2020-03-26 17:04:09</sys_created_on>
+        <sys_id>8f5b74652f3f0810869d11c82799b62d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17117cd17ea0000001</sys_recorded_at>
+        <sys_updated_by>Dreambig</sys_updated_by>
+        <sys_updated_on>2020-03-26 17:04:09</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>c75b74652e3f08104a95dd0173a6c32d</update_guid>
+        <update_guid_history>c75b74652e3f08104a95dd0173a6c32d:162865424</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Dreambig</sys_created_by>
+        <sys_created_on>2020-03-26 17:22:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>1c13d6a31dbe446593b4c6eab74df3f1</sys_id>
+        <sys_metadata>cf5b74652f3f0810869d11c82799b62b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ticket Details</sys_name>
+        <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+        <sys_scope_delete display_value="">c65077874e43428c84db51fd7a2e9b10</sys_scope_delete>
+        <sys_update_name>sys_ui_view_cf5b74652f3f0810869d11c82799b62b</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_cf5b74652f3f0810869d11c82799b62b">8f5b74652f3f0810869d11c82799b62d</sys_update_version>
+        <sys_updated_by>Dreambig</sys_updated_by>
+        <sys_updated_on>2020-03-26 17:22:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

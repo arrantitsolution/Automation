@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Service Request Factory</name>
+        <order>100</order>
+        <roles>x_186591_service_r.srf_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>Dreambig</sys_created_by>
+        <sys_created_on>2020-03-25 22:32:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3afcb8d92ffbc410869d11c82799b689</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Request Factory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+        <sys_update_name>sys_app_application_3afcb8d92ffbc410869d11c82799b689</sys_update_name>
+        <sys_updated_by>Dreambig</sys_updated_by>
+        <sys_updated_on>2020-03-25 22:32:44</sys_updated_on>
+        <title>Service Request Factory</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

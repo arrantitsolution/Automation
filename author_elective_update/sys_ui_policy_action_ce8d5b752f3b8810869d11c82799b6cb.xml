@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>sub_status</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>Dreambig</sys_created_by>
+        <sys_created_on>2020-03-27 23:31:23</sys_created_on>
+        <sys_id>ce8d5b752f3b8810869d11c82799b6cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sub_status</sys_name>
+        <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+        <sys_update_name>sys_ui_policy_action_ce8d5b752f3b8810869d11c82799b6cb</sys_update_name>
+        <sys_updated_by>Dreambig</sys_updated_by>
+        <sys_updated_on>2020-03-27 23:31:23</sys_updated_on>
+        <table>x_186591_service_r_srf</table>
+        <ui_policy display_value="Sub Status becomes Mandatory if staus is other than None ">345d57752f3b8810869d11c82799b69a</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</application>
+        <file_path/>
+        <instance_id>e81821bbdbf184d452dd2f17d4961975</instance_id>
+        <instance_name>dev96559</instance_name>
+        <name>sys_ui_policy_action_ce8d5b752f3b8810869d11c82799b6cb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>sub_status</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>Dreambig</sys_created_by><sys_created_on>2020-03-27 23:31:23</sys_created_on><sys_id>ce8d5b752f3b8810869d11c82799b6cb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sub_status</sys_name><sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package><sys_policy/><sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope><sys_update_name>sys_ui_policy_action_ce8d5b752f3b8810869d11c82799b6cb</sys_update_name><sys_updated_by>Dreambig</sys_updated_by><sys_updated_on>2020-03-27 23:31:23</sys_updated_on><table>x_186591_service_r_srf</table><ui_policy display_value="Sub Status becomes Mandatory if staus is other than None ">345d57752f3b8810869d11c82799b69a</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-525111978</payload_hash>
+        <record_name>sub_status</record_name>
+        <reverted_from/>
+        <source>14faf4d52ffbc410869d11c82799b611</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Dreambig</sys_created_by>
+        <sys_created_on>2020-03-27 23:31:23</sys_created_on>
+        <sys_id>519d1f352f3b8810869d11c82799b697</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1711e55fb830000001</sys_recorded_at>
+        <sys_updated_by>Dreambig</sys_updated_by>
+        <sys_updated_on>2020-03-27 23:31:23</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>999d1f351d3b8810da53a7d8b7ea5696</update_guid>
+        <update_guid_history>999d1f351d3b8810da53a7d8b7ea5696:-525111978</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Dreambig</sys_created_by>
+        <sys_created_on>2020-03-27 23:39:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>5fac3abf5aac4110a20f9096461bfce4</sys_id>
+        <sys_metadata>ce8d5b752f3b8810869d11c82799b6cb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sub_status</sys_name>
+        <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+        <sys_scope_delete display_value="">c65077874e43428c84db51fd7a2e9b10</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_ce8d5b752f3b8810869d11c82799b6cb</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_ce8d5b752f3b8810869d11c82799b6cb">519d1f352f3b8810869d11c82799b697</sys_update_version>
+        <sys_updated_by>Dreambig</sys_updated_by>
+        <sys_updated_on>2020-03-27 23:39:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

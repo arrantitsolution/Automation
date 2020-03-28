@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="status" table="x_186591_service_r_srf" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Draft</label>
+            <language>en</language>
+            <name>x_186591_service_r_srf</name>
+            <sequence>10</sequence>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-27 23:37:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e7ce9f752f3b8810869d11c82799b67b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 23:37:19</sys_updated_on>
+            <value>Draft</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Requirements Gathering</label>
+            <language>en</language>
+            <name>x_186591_service_r_srf</name>
+            <sequence>20</sequence>
+            <sys_created_by>Dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 21:15:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50e43d692f334810869d11c82799b6aa</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 23:37:23</sys_updated_on>
+            <value>Requirements Gathering</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Design</label>
+            <language>en</language>
+            <name>x_186591_service_r_srf</name>
+            <sequence>30</sequence>
+            <sys_created_by>dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 04:55:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3849a192f730810869d11c82799b64e</sys_id>
+            <sys_mod_count>9</sys_mod_count>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 23:04:03</sys_updated_on>
+            <value>Service Design</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ready for Testing</label>
+            <language>en</language>
+            <name>x_186591_service_r_srf</name>
+            <sequence>40</sequence>
+            <sys_created_by>dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 04:56:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ec49a192f730810869d11c82799b6f3</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 21:17:50</sys_updated_on>
+            <value>Ready for Testing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pipeline</label>
+            <language>en</language>
+            <name>x_186591_service_r_srf</name>
+            <sequence>50</sequence>
+            <sys_created_by>dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 04:56:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53d4de192f730810869d11c82799b68c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 21:18:16</sys_updated_on>
+            <value>Pipeline</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed</label>
+            <language>en</language>
+            <name>x_186591_service_r_srf</name>
+            <sequence>60</sequence>
+            <sys_created_by>dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 05:12:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a889e1d2f730810869d11c82799b6da</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>Dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-27 23:33:45</sys_updated_on>
+            <value>Closed</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <name>x_186591_service_r_srf</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>dreambig</sys_created_by>
+            <sys_created_on>2020-03-26 04:55:21</sys_created_on>
+            <sys_id>1784ded52f730810869d11c82799b6d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status</sys_name>
+            <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+            <sys_update_name>sys_choice_x_186591_service_r_srf_status</sys_update_name>
+            <sys_updated_by>dreambig</sys_updated_by>
+            <sys_updated_on>2020-03-26 04:55:21</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

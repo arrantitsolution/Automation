@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>what_would_be_the_impact_if_the_risk_materialize</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>Dreambig</sys_created_by>
+        <sys_created_on>2020-03-26 22:04:09</sys_created_on>
+        <sys_id>0fef3da52f734810869d11c82799b6a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>what_would_be_the_impact_if_the_risk_materialize</sys_name>
+        <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+        <sys_update_name>sys_ui_policy_action_0fef3da52f734810869d11c82799b6a5</sys_update_name>
+        <sys_updated_by>Dreambig</sys_updated_by>
+        <sys_updated_on>2020-03-26 22:04:09</sys_updated_on>
+        <table>x_186591_service_r_srf</table>
+        <ui_policy display_value="Question becomes Mandatory- What would be the impact if the Risk materialize?">409f75a52f734810869d11c82799b699</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

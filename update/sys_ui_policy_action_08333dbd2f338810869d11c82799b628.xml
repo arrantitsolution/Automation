@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>probability_of_risk</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>Dreambig</sys_created_by>
+        <sys_created_on>2020-03-27 15:46:51</sys_created_on>
+        <sys_id>08333dbd2f338810869d11c82799b628</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>probability_of_risk</sys_name>
+        <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+        <sys_update_name>sys_ui_policy_action_08333dbd2f338810869d11c82799b628</sys_update_name>
+        <sys_updated_by>Dreambig</sys_updated_by>
+        <sys_updated_on>2020-03-27 15:46:51</sys_updated_on>
+        <table>x_186591_service_r_srf</table>
+        <ui_policy display_value="Ques 2 - Probability of Risk">05800ae52f734810869d11c82799b623</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

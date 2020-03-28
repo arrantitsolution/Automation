@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule">
+    <sys_atf_schedule action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <description/>
+        <name>My New Schedule</name>
+        <run_as display_value="dream big">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2020-03-28 18:28:06</run_start>
+        <run_time>1970-01-01 19:30:00</run_time>
+        <run_type>daily</run_type>
+        <script><![CDATA[new global.ScheduledTestProcessor().executeScheduledSuites('e8c163862f7bc810869d11c82799b62e');]]></script>
+        <sys_class_name>sys_atf_schedule</sys_class_name>
+        <sys_created_by>Dreambig</sys_created_by>
+        <sys_created_on>2020-03-28 18:28:22</sys_created_on>
+        <sys_id>e8c163862f7bc810869d11c82799b62e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My New Schedule</sys_name>
+        <sys_package display_value="Service Request Factory" source="x_186591_service_r">14faf4d52ffbc410869d11c82799b60f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Request Factory">14faf4d52ffbc410869d11c82799b60f</sys_scope>
+        <sys_update_name>sys_atf_schedule_e8c163862f7bc810869d11c82799b62e</sys_update_name>
+        <sys_updated_by>Dreambig</sys_updated_by>
+        <sys_updated_on>2020-03-28 18:28:22</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+    </sys_atf_schedule>
+</record_update>
